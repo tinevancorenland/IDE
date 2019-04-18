@@ -23,7 +23,6 @@ A download link of the IDE
 As an anonymous woman once said :point_up:
 
 > Make time now to do it right
-
 > Or make time later to do it over
 
 ## Info
@@ -59,21 +58,16 @@ Thousands of plugins/extensions available through the VS Code Marketplace | Long
 
 I have chosen to use Visual Studio Code, because it works as a fairly lightweight text editor, but with more powerful IDE-type features (such as a debugger) with very minimal configuration. It is also commonly used so if I encouter any problems I can google my way out of them. 
 
+[Download here](https://code.visualstudio.com/download)
+
 Markdown requirements
 
 Use all of markdowns features. For each of the features below you should have at least one.
 
 1. an image
-2. a url with custom text
-
-
 5. a title
-
 8. a non numbered list with subpoints
-
-
 11. A code block
-12. A task list
 
 
 

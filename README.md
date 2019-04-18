@@ -3,25 +3,27 @@
 **As a web developer an IDE (Integrated development environment) is an absolute must! Since there is a whole lot of software available on the market, it is very important that you find one that fits your style of coding...**
 
 ## Goals
-Getting an insight into the available IDE's
-Make an informed decision for the right IDE
-Have an IDE for the rest of the training
 
-Search for different IDE's online
-Think about the pros and cons of your chosen IDE and prepare a readme.md
-Push that readme.md to a new repository, call it IDE-research
-Make sure the repository is public (*)
+ - [x] Search for different IDE's online
+
+ - [x] Compare and make an informed decision for the right IDE
+
+ - [ ] Have an IDE for the rest of the training
+
+
+
+
 Make sure the readme has at least:
 A download link of the IDE
-Three positives
-Three negatives
-No.1 Reason why you chose this IDE
+
+
 
 ## Why 
 
 As an anonymous woman once said :point_up:
 
 > Make time now to do it right
+
 > Or make time later to do it over
 
 ## Info
@@ -38,37 +40,24 @@ Check out the list below outlining the features and drawbacks of each of 10  IDE
 ## Overview of commonly used text editors & IDE's
 
 1. Visual Studio Code 
-
-* Probably the best JavaScript ide for Windows, Mac and Linux.
-* Supports JavaScript, Node.js, TypeScript (+ extensions for other languages including C++, C#, Python, PHP, etc.)
-
-2. NetBeans
-
-3. PyCharm
-4. IntelliJ IDEA
-5. Eclipse
-6. Code::Blocks
-7. Aptana Studio 3
-8. Komodo 
+2. Sublime text
+3. Atom
+4. Brackets
+5. NetBeans
+6. Eclipse
+7. Komodo 
 9. RubyMine
 10. Xcode
 
-## Comparison of the text editors & IDE's 
+## Pro's and cons of Visual Studio Code
 
+Pros | Cons
+--------------- | --------------- 
+User friendly layout and attractive interface | Lacks some features of a full IDE
+Easily customizable | Slow file search
+Thousands of plugins/extensions available through the VS Code Marketplace | Longer launch time than most of its competitors
 
-Factors considered: | languages supported | ease of use | cost
---------------- | --------------- | --------------- | ---------------
-Microsoft Visual Studio |
-NetBeans |
-PyCharm |
-IntelliJ IDEA |
-Eclipse |
-Code::Blocks |
-Aptana Studio 3 |
-Komodo |
-RubyMine |
-Xcode |
-
+I have chosen to use Visual Studio Code, because it works as a fairly lightweight text editor, but with more powerful IDE-type features (such as a debugger) with very minimal configuration. It is also commonly used so if I encouter any problems I can google my way out of them. 
 
 Markdown requirements
 
@@ -77,7 +66,7 @@ Use all of markdowns features. For each of the features below you should have at
 1. an image
 2. a url with custom text
 
-4. a table
+
 5. a title
 
 8. a non numbered list with subpoints

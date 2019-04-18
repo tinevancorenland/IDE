@@ -35,10 +35,15 @@ Which is the best IDE on the market? The better question is: “Which is the bes
 Check out the list below outlining the features and drawbacks of each of 10  IDE software programs.
  
 
-## Overview of 10 commonly used IDE's
+## Overview of commonly used text editors & IDE's
 
-1. Microsoft Visual Studio
+1. Visual Studio Code 
+
+* Probably the best JavaScript ide for Windows, Mac and Linux.
+* Supports JavaScript, Node.js, TypeScript (+ extensions for other languages including C++, C#, Python, PHP, etc.)
+
 2. NetBeans
+
 3. PyCharm
 4. IntelliJ IDEA
 5. Eclipse
@@ -48,8 +53,21 @@ Check out the list below outlining the features and drawbacks of each of 10  IDE
 9. RubyMine
 10. Xcode
 
-## Comparison of these 10 IDE's
+## Comparison of the text editors & IDE's 
 
+
+Factors considered: | languages supported | ease of use | cost
+--------------- | --------------- | --------------- | ---------------
+Microsoft Visual Studio |
+NetBeans |
+PyCharm |
+IntelliJ IDEA |
+Eclipse |
+Code::Blocks |
+Aptana Studio 3 |
+Komodo |
+RubyMine |
+Xcode |
 
 
 Markdown requirements

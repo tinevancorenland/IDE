@@ -55,11 +55,11 @@ I have chosen Visual Studio Code, because it promises to:
 * combine the simplicity of a source code editor with powerful developer tooling: 
    * such as IntelliSense code completion (which will suggest possible completions based on your typed characters) to ease your work
 
-'''javascript
+```javascript
 function text() {
 console.log("look ma', no spaces");
 }
-'''
+```
 
    * and debugging,
 

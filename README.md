@@ -10,14 +10,6 @@
 
  - [ ] Have an IDE for the rest of the training
 
-
-
-
-Make sure the readme has at least:
-A download link of the IDE
-
-
-
 ## Why 
 
 As an anonymous woman once said :point_up:
@@ -34,7 +26,6 @@ An IDE includes all of these components and then more. Some IDEs come with addit
 Which is the best IDE on the market? The better question is: “Which is the best IDE for my purposes?” General factors to consider when choosing the best IDE include the languages it can support, ease of use and cost.
 
 Check out the list below outlining the features and drawbacks of each of 10  IDE software programs.
- 
 
 ## Overview of commonly used text editors & IDE's
 
@@ -45,8 +36,13 @@ Check out the list below outlining the features and drawbacks of each of 10  IDE
 5. NetBeans
 6. Eclipse
 7. Komodo 
-9. RubyMine
-10. Xcode
+9. Notepad++
+
+## Which one to choose
+
+I choose Visual Studio Code, and the interface looks like this:
+
+![Interface Visual Studio Code](https://code.visualstudio.com/assets/docs/getstarted/userinterface/hero.png)
 
 ## Pro's and cons of Visual Studio Code
 

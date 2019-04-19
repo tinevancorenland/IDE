@@ -14,8 +14,8 @@
 
 As an anonymous woman once said :point_up:
 
-> Make time now to do it right
-> Or make time later to do it over
+> Make time **now** to do it **right**
+> or make time later to do it over
 
 ## Info
 
@@ -25,7 +25,9 @@ An IDE includes all of these components and then more. Some IDEs come with addit
 
 Which is the best IDE on the market? The better question is: “Which is the best IDE for my purposes?” General factors to consider when choosing the best IDE include the languages it can support, ease of use and cost.
 
-Check out the list below outlining the features and drawbacks of each of 10  IDE software programs.
+So... To sum up:
+* Text editor
+* IDE
 
 ## Overview of commonly used text editors & IDE's
 
@@ -40,11 +42,11 @@ Check out the list below outlining the features and drawbacks of each of 10  IDE
 
 ## Which one to choose
 
-I choose Visual Studio Code, and the interface looks like this:
+I chose Visual Studio Code, and the interface looks like this:
 
 ![Interface Visual Studio Code](https://code.visualstudio.com/assets/docs/getstarted/userinterface/hero.png)
 
-## Pro's and cons of Visual Studio Code
+## Some pros and cons of Visual Studio Code
 
 Pros | Cons
 --------------- | --------------- 
@@ -52,18 +54,22 @@ User friendly layout and attractive interface | Lacks some features of a full ID
 Easily customizable | Slow file search
 Thousands of plugins/extensions available through the VS Code Marketplace | Longer launch time than most of its competitors
 
-I have chosen to use Visual Studio Code, because it works as a fairly lightweight text editor, but with more powerful IDE-type features (such as a debugger) with very minimal configuration. It is also commonly used so if I encouter any problems I can google my way out of them. 
+
+
+I have chosen Visual Studio Code, because it promises to:
+* combine the simplicity of a source code editor with powerful developer tooling: 
+   * such as IntelliSense code completion and debugging,
+* support macOS, Linux and Windows:
+   * so you can go for it, no matter the platform,
+* support Git:
+   * so you can work with source control without leaving the editor,
+* customize every feature to your liking. 
+
+It is also commonly used so if I encouter any problems I can google my way out of them. 
+
+## Go for it
 
 [Download here](https://code.visualstudio.com/download)
-
-Markdown requirements
-
-Use all of markdowns features. For each of the features below you should have at least one.
-
-1. an image
-5. a title
-8. a non numbered list with subpoints
-11. A code block
 
 
 
